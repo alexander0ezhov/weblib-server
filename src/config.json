@@ -1,0 +1,12 @@
+{
+  "apiPrefix": "http://localhost",
+  "serverPort": "5000",
+  "dbConf":{
+    "type": "postgres",
+    "database": "postgres",
+    "host": "db",
+    "port": 5432,
+    "user": "postgres",
+    "password": "postgres"
+  }
+}
